@@ -2,7 +2,6 @@ console.log("App.js is loaded");
 var hour = 12;
 var minute = 30;
 var seconde = 30;
-var play = false;
 
 function setDisplay() {
     Time();
